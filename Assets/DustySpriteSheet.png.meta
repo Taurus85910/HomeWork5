@@ -1,0 +1,1178 @@
+fileFormatVersion: 2
+guid: 437fd472da5cee748948a48d003ecdf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4184623377960056692
+    second: DustySpriteSheet_0
+  - first:
+      213: -8967727405400974411
+    second: DustySpriteSheet_1
+  - first:
+      213: -5468395468118586001
+    second: DustySpriteSheet_2
+  - first:
+      213: -3275299729072034215
+    second: DustySpriteSheet_3
+  - first:
+      213: 5002465704278863835
+    second: DustySpriteSheet_4
+  - first:
+      213: 8813561281885212183
+    second: DustySpriteSheet_5
+  - first:
+      213: -2191640926489614856
+    second: DustySpriteSheet_6
+  - first:
+      213: 2332586504197447141
+    second: DustySpriteSheet_7
+  - first:
+      213: 526767742392987359
+    second: DustySpriteSheet_8
+  - first:
+      213: -7781827624229980643
+    second: DustySpriteSheet_9
+  - first:
+      213: 3217599425381871941
+    second: DustySpriteSheet_10
+  - first:
+      213: -9025603982008158926
+    second: DustySpriteSheet_11
+  - first:
+      213: 7137517596352264378
+    second: DustySpriteSheet_12
+  - first:
+      213: 207520976594015308
+    second: DustySpriteSheet_13
+  - first:
+      213: -5115443883794935076
+    second: DustySpriteSheet_14
+  - first:
+      213: 8530057618751677380
+    second: DustySpriteSheet_15
+  - first:
+      213: -1160620418270575191
+    second: DustySpriteSheet_16
+  - first:
+      213: -347955007640375987
+    second: DustySpriteSheet_17
+  - first:
+      213: -2484946339944344134
+    second: DustySpriteSheet_18
+  - first:
+      213: -8274703350140977265
+    second: DustySpriteSheet_19
+  - first:
+      213: 54153645563535137
+    second: DustySpriteSheet_20
+  - first:
+      213: 7208380859956134942
+    second: DustySpriteSheet_21
+  - first:
+      213: 4406663821603511775
+    second: DustySpriteSheet_22
+  - first:
+      213: 6505437638049739551
+    second: DustySpriteSheet_23
+  - first:
+      213: -1942611736961187897
+    second: DustySpriteSheet_24
+  - first:
+      213: -2353921686915822550
+    second: DustySpriteSheet_25
+  - first:
+      213: -1736179080181035650
+    second: DustySpriteSheet_26
+  - first:
+      213: 7103290167753903909
+    second: DustySpriteSheet_27
+  - first:
+      213: -585093703903964119
+    second: DustySpriteSheet_28
+  - first:
+      213: 4646263771838737637
+    second: DustySpriteSheet_29
+  - first:
+      213: 7089519891086853181
+    second: DustySpriteSheet_30
+  - first:
+      213: 1308883256023811083
+    second: DustySpriteSheet_31
+  - first:
+      213: -8987709655295771700
+    second: DustySpriteSheet_32
+  - first:
+      213: 4147657031148101297
+    second: DustySpriteSheet_33
+  - first:
+      213: 7130281767464522757
+    second: DustySpriteSheet_34
+  - first:
+      213: -5430954541056809939
+    second: DustySpriteSheet_35
+  - first:
+      213: 6147456321468591274
+    second: DustySpriteSheet_36
+  - first:
+      213: -923341649118001302
+    second: DustySpriteSheet_37
+  - first:
+      213: -7958285993478168377
+    second: DustySpriteSheet_38
+  - first:
+      213: 4128534829215254275
+    second: DustySpriteSheet_39
+  - first:
+      213: 685004435366491434
+    second: DustySpriteSheet_40
+  - first:
+      213: 1061935576887011803
+    second: DustySpriteSheet_41
+  - first:
+      213: -5081923463107923664
+    second: DustySpriteSheet_42
+  - first:
+      213: -2738098562285017759
+    second: DustySpriteSheet_43
+  - first:
+      213: 1945129481540627400
+    second: DustySpriteSheet_44
+  - first:
+      213: 4373193298607323980
+    second: DustySpriteSheet_45
+  - first:
+      213: 2904144610679979781
+    second: DustySpriteSheet_46
+  - first:
+      213: 9221224655325408709
+    second: DustySpriteSheet_47
+  - first:
+      213: -237338439308736512
+    second: DustySpriteSheet_48
+  - first:
+      213: -6285668952996086231
+    second: DustySpriteSheet_49
+  - first:
+      213: -8073391647401527366
+    second: DustySpriteSheet_50
+  - first:
+      213: 6044119776294497579
+    second: DustySpriteSheet_51
+  - first:
+      213: -995692811299208383
+    second: DustySpriteSheet_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DustySpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 920
+        width: 106
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477ba1a8ac4c21a30800000000000000
+      internalID: 4184623377960056692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 920
+        width: 96
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1a86107b3c8380800000000000000
+      internalID: -8967727405400974411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 920
+        width: 105
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d8f676b4b5c14b0800000000000000
+      internalID: -5468395468118586001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 920
+        width: 107
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e6abbef3ccb82d0800000000000000
+      internalID: -3275299729072034215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 920
+        width: 104
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfad98cd045c6540800000000000000
+      internalID: 5002465704278863835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 920
+        width: 111
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e87e42a4f005a70800000000000000
+      internalID: 8813561281885212183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 920
+        width: 106
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5e06d603ab591e0800000000000000
+      internalID: -2191640926489614856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 920
+        width: 104
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed1f8621130f5020800000000000000
+      internalID: 2332586504197447141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 920
+        width: 111
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdee77488747f4700800000000000000
+      internalID: 526767742392987359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 741
+        width: 106
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1633727105610490800000000000000
+      internalID: -7781827624229980643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 741
+        width: 96
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541336b31a537ac20800000000000000
+      internalID: 3217599425381871941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 741
+        width: 122
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2357d018ffc9eb280800000000000000
+      internalID: -9025603982008158926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 741
+        width: 107
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44145d8a3341e200800000000000000
+      internalID: 207520976594015308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 741
+        width: 105
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3ee47c53ad06670800000000000000
+      internalID: 8530057618751677380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 741
+        width: 199
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4de6cb93c0db2bf0800000000000000
+      internalID: -347955007640375987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 741
+        width: 105
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5d5b93872b38dd0800000000000000
+      internalID: -2484946339944344134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 741
+        width: 103
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f5b17247460c000800000000000000
+      internalID: 54153645563535137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 742
+        width: 112
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd1e33f56d972d30800000000000000
+      internalID: 4406663821603511775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 565
+        width: 106
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1339648015f74a50800000000000000
+      internalID: 6505437638049739551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 566
+        width: 96
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf7ce9eae47a05e0800000000000000
+      internalID: -1942611736961187897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 565
+        width: 97
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c4b4682b0355fd0800000000000000
+      internalID: -2353921686915822550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 566
+        width: 94
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f0f71d5c4f39260800000000000000
+      internalID: 7103290167753903909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 565
+        width: 104
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ece6359848da7040800000000000000
+      internalID: 4646263771838737637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 566
+        width: 199
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0481c7f2661a2210800000000000000
+      internalID: 1308883256023811083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 566
+        width: 105
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb3fbbffad354380800000000000000
+      internalID: -8987709655295771700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 565
+        width: 103
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504da2a5d79d3f260800000000000000
+      internalID: 7130281767464522757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 565
+        width: 86
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac6d5924f6205550800000000000000
+      internalID: 6147456321468591274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 392
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a678ff589a1af23f0800000000000000
+      internalID: -923341649118001302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 392
+        width: 108
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c064c1cd0d7e8190800000000000000
+      internalID: -7958285993478168377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 392
+        width: 103
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3070432ad808b4930800000000000000
+      internalID: 4128534829215254275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 392
+        width: 122
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25369797ef918900800000000000000
+      internalID: 685004435366491434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 392
+        width: 131
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd923b2e7c0ccbe00800000000000000
+      internalID: 1061935576887011803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 392
+        width: 98
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031bab519816979b0800000000000000
+      internalID: -5081923463107923664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 392
+        width: 103
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1656efa5dd1500ad0800000000000000
+      internalID: -2738098562285017759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 392
+        width: 107
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb6e5d25fc7efa10800000000000000
+      internalID: 1945129481540627400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 211
+        width: 106
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bbb998224b0bc30800000000000000
+      internalID: 4373193298607323980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 211
+        width: 106
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ff1f7f2289d4820800000000000000
+      internalID: 2904144610679979781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 211
+        width: 101
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdaeb6c7fe58ff70800000000000000
+      internalID: 9221224655325408709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 211
+        width: 92
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008057962fdc4bcf0800000000000000
+      internalID: -237338439308736512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 106
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e77f0e361d4c8a0800000000000000
+      internalID: -6285668952996086231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 25
+        width: 111
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7b604421d85ff80800000000000000
+      internalID: -8073391647401527366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 25
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d62f5d9e601e350800000000000000
+      internalID: 6044119776294497579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DustySpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 25
+        width: 158
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143c91dd9a69e22f0800000000000000
+      internalID: -995692811299208383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
