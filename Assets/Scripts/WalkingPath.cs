@@ -20,20 +20,15 @@ public class WalkingPath : MonoBehaviour
     }
 
     private void Update()
-    {
-        if (_currentPoint != -1)
-        {
-            Transform target = _points[_currentPoint];
-            float directionX = target.position.x - transform.position.x;
-            if (directionX <= 0f)
-                transform.rotation = new Quaternion(0, 180, 0, 0);
-            else
-                transform.rotation = new Quaternion(0, 0, 0, 120);
-            transform.position = Vector3.MoveTowards(transform.position, target.position, _speed * Time.deltaTime);
-            if (transform.position == target.position)
-                _currentPoint++;
-            if (_currentPoint == _points.Length)
-                _currentPoint = -1;
-        }
+    {        
+        Transform target = _points[_currentPoint];
+        float directionX = target.position.x - transform.position.x;
+        if (directionX <= 0f)
+            transform.rotation = new Quaternion(0, 180, 0, 0);
+        else
+            transform.rotation = new Quaternion(0, 0, 0, 120);
+        transform.position = Vector3.MoveTowards(transform.position, target.position, _speed * Time.deltaTime);
+        if(transform.position == target.position)        
+            _currentPoint++;
     }
 }

@@ -1,38 +1,53 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 
 public class Door : MonoBehaviour
 {
 
-    private SpriteRenderer _door;
-<<<<<<< HEAD
-    private bool _isAlarmOn;
-=======
+    [SerializeField] private UnityEvent _entry;
     private bool _isRobberInHouse;
->>>>>>> 624e08ac9e4d793d30c2215fc200f58273c8bb20
- 
+    private bool _isRobberWasInHouse;
+    private SpriteRenderer _door;
+    private AudioSource _audio;
+
+
+    private void Start()
+    {
+        _door = GetComponent<SpriteRenderer>();
+        _audio = GetComponent<AudioSource>();
+        _audio.volume = 0;
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         
         if (collision.TryGetComponent<Robber>(out Robber robber))
         {
-<<<<<<< HEAD
-            if (!_isAlarmOn)          
-                _isAlarmOn = true;                        
-            else            
-                _isAlarmOn = false;           
+            if (!_isRobberInHouse)
+            {
+                _door.color = Color.red;
+                _isRobberInHouse = true;
+                _isRobberWasInHouse = true;
+                _entry?.Invoke();
+            }
+            else
+            {
+                _door.color = Color.green;
+                _isRobberInHouse = false;
+            }
         }
     }
-    public bool CheckAlarm() => _isAlarmOn;
-=======
-            if (!_isRobberInHouse)          
-                _isRobberInHouse = true;                        
-            else            
-                _isRobberInHouse = false;           
-        }
+
+    private void Update()
+    {
+        if (_isRobberInHouse)
+            _audio.volume += 0.001f;
+        else
+            _audio.volume -= 0.01f;
+        if (_isRobberWasInHouse && !_isRobberInHouse && _audio.volume == 0)
+            _audio.Stop();
     }
-    public bool CheckRobberInHouse() => _isRobberInHouse;
->>>>>>> 624e08ac9e4d793d30c2215fc200f58273c8bb20
 }
