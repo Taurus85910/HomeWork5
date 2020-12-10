@@ -17,6 +17,7 @@ public class Alarm : MonoBehaviour
         _audio.volume = 0;
         _isAlarmStarted = false;
 
+
     }
 
     private void Update()
@@ -49,6 +50,28 @@ public class Alarm : MonoBehaviour
                 _audio.Stop();
             yield return null;
         }
+
+        
+    }
+
+    void Update()
+    {
+        if (!_isAlarmStarted && _isRobbeInHouse)
+        {
+            _onSignal?.Invoke();
+            _isAlarmStarted = true;
+        }
+        if (_isRobbeInHouse)
+        {           
+            _audio.volume += 0.001f;
+        }
+        else
+        {
+            _audio.volume -= 0.01f;
+        }
+        if ( _audio.volume == 0)
+            _audio.Stop();
+
     }
 
     public void ChangeRobberPosition()
