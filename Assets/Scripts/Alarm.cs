@@ -7,6 +7,7 @@ public class Alarm : MonoBehaviour
 {
     [SerializeField] private UnityEvent _onSignal;
     [SerializeField] private Door _door;
+    [SerializeField] private float _swiftness;
     private AudioSource _audio;
     private bool _isAlarmStarted;
     private bool _isRobbeInHouse;
@@ -16,7 +17,6 @@ public class Alarm : MonoBehaviour
         _audio = GetComponent<AudioSource>();
         _audio.volume = 0;
         _isAlarmStarted = false;
-
 
     }
 
@@ -36,7 +36,7 @@ public class Alarm : MonoBehaviour
     {
         while (true)
         {
-            _audio.volume += 0.001f;
+            _audio.volume = Mathf.MoveTowards(_audio.volume,1, _swiftness/10 * Time.deltaTime); 
             yield return null;
         }
     }
@@ -45,33 +45,12 @@ public class Alarm : MonoBehaviour
     {
         while (true)
         {
-            _audio.volume -= 0.001f;
+           
+            _audio.volume = Mathf.MoveTowards(_audio.volume, 0, _swiftness / 10 * Time.deltaTime);
             if (_audio.volume == 0)
                 _audio.Stop();
             yield return null;
         }
-
-        
-    }
-
-    void Update()
-    {
-        if (!_isAlarmStarted && _isRobbeInHouse)
-        {
-            _onSignal?.Invoke();
-            _isAlarmStarted = true;
-        }
-        if (_isRobbeInHouse)
-        {           
-            _audio.volume += 0.001f;
-        }
-        else
-        {
-            _audio.volume -= 0.01f;
-        }
-        if ( _audio.volume == 0)
-            _audio.Stop();
-
     }
 
     public void ChangeRobberPosition()
