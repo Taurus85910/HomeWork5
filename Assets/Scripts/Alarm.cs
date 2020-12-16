@@ -36,8 +36,8 @@ public class Alarm : MonoBehaviour
     {
         while (true)
         {
-            _audio.volume = Mathf.MoveTowards(_audio.volume,1, _swiftness/10 * Time.deltaTime); 
-            yield return null;
+            _audio.volume = Mathf.MoveTowards(_audio.volume,1, _swiftness * Time.deltaTime); 
+            yield return new WaitForSeconds(_swiftness * Time.deltaTime); ;
         }
     }
 
@@ -46,10 +46,10 @@ public class Alarm : MonoBehaviour
         while (true)
         {
            
-            _audio.volume = Mathf.MoveTowards(_audio.volume, 0, _swiftness / 10 * Time.deltaTime);
+            _audio.volume = Mathf.MoveTowards(_audio.volume, 0, _swiftness * Time.deltaTime);
             if (_audio.volume == 0)
                 _audio.Stop();
-            yield return null;
+            yield return new WaitForSeconds(_swiftness*Time.deltaTime);
         }
     }
 
