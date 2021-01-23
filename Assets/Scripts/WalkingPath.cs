@@ -9,11 +9,13 @@ public class WalkingPath : MonoBehaviour
 
     private Transform[] _points;
     private int _currentPoint;
+    private Transform _transform;
 
     private void Start()
     {
         _points = new Transform[_way.childCount];
-        for (int i = 0; i < _way.childCount; i++)
+        _transform = GetComponent<Transform>();
+;        for (int i = 0; i < _way.childCount; i++)
         {
             _points[i] = _way.GetChild(i);
         }
@@ -24,12 +26,10 @@ public class WalkingPath : MonoBehaviour
         if (_currentPoint != -1)
         {
             Transform target = _points[_currentPoint];
-            float directionX = target.position.x - transform.position.x;
-            if (directionX <= 0f)
-                transform.rotation = new Quaternion(0, 180, 0, 0);
-            else
-                transform.rotation = new Quaternion(0, 0, 0, 120);
-            transform.position = Vector3.MoveTowards(transform.position, target.position, _speed * Time.deltaTime);
+            Vector3 position = target.position;
+            float directionX = position.x - transform.position.x;
+            _transform.rotation = directionX <= 0f ? new Quaternion(0, 180, 0, 0) : new Quaternion(0, 0, 0, 120);
+            _transform.position = Vector3.MoveTowards(_transform.position, position, _speed * Time.deltaTime);
             if (transform.position == target.position)
                 _currentPoint++;
             if (_currentPoint == _points.Length)
